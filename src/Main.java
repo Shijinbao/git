@@ -6,5 +6,6 @@ public class Main {
         System.out.println("dev");
         System.out.println("你好我好大家");
         System.out.println("大家好才是真的好");
+        System.out.println("tag");
     }
 }

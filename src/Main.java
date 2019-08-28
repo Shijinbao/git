@@ -4,5 +4,6 @@ public class Main {
         System.out.println("master");
         System.out.println("欢天喜地过大年");
         System.out.println("dev");
+        System.out.println("你好我好大家");
     }
 }
